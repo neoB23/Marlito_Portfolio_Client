@@ -23,7 +23,7 @@ const educationData = [
 const projects = [
   {
       title: 'KickCraze',
-      img: '/images/ss1.png',
+      img: '/Images/Screenshot 2024-06-27 003559.png',
       skills: ['ReactJS', 'Tailwind'],
       description: 'I challenged myself to develop an e-commerce website using the React.js framework and Vite to enhance my skills.',
       link: 'https://example.com/kickcraze',
@@ -32,7 +32,7 @@ const projects = [
   },
   {
       title: 'NU LANDING PAGE',
-      img: '/images/ss2.png',
+      img: '/Images/Screenshot 2024-06-27 003725.png',
       skills: ['HTML', 'CSS'],
       description: 'To enhance my skills in HTML and CSS, I challenged myself to clone the landing page of NU.',
       link: 'https://example.com/nu-landing-page',
@@ -40,7 +40,7 @@ const projects = [
   },
   {
       title: 'NBA ROSTER',
-      img: '/images/ss3.png',
+      img: '/Images/Screenshot 2024-06-27 003829.png',
       skills: ['HTML', 'CSS'],
       description: 'I took on the challenge of creating a responsive landing page to enhance my front-end skills. This project helped me improve my abilities in HTML, CSS, and responsive design, focusing on creating adaptable and user-friendly layouts.',
       link: 'https://nbaroster.netlify.app/',
@@ -49,7 +49,7 @@ const projects = [
   },
   {
       title: 'GYM MEMBERSHIP SYSTEM',
-      img: '/images/ss4.png',
+      img: '/Images/Screenshot 2024-06-27 004651.png',
       skills: ['C#', 'MYSQL'],
       description: 'This is my project from my second year, which allows users to avail gym memberships and enables admins to manage the gym.',
       link: 'https://example.com/gym-membership',
@@ -57,7 +57,7 @@ const projects = [
   },
   {
       title: 'CAR MANAGEMENT SYSTEM',
-      img: '/images/ss5.png',
+      img: '/Images/Screenshot 2024-06-27 011443.png',
       skills: ['C#', 'MYSQL'],
       description: 'This is my first-year project and the first complete project I\'ve ever created. It\'s a management system where users can rent cars, and admins can manage the rentals.',
       link: 'https://example.com/car-management',
@@ -65,8 +65,8 @@ const projects = [
   },
   {
       title: 'PORTFOLIO V1',
-      img: '/images/ss6.png',
-      skills: ['HTML', 'CSS'],
+      img: '/Images/Screenshot 2025-02-21 155125.png',
+      skills: ['ReactVite', 'Tailwind'],
       description: 'This is my first attempt at creating a portfolio website without using any frameworks.',
       link: 'https://example.com/portfolio-v1',
       svg1: 'https://github.com/neoB23/Portfolio-V1',
